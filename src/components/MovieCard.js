@@ -1,6 +1,6 @@
 import { Card, CardMedia, CardContent, Typography, CardActions, Button, Box, Chip, useTheme, useMediaQuery } from '@mui/material';
 import { Link } from 'react-router-dom';
-import { useMovieContext } from '../context/MovieContext';
+import { useMovieContext } from '../ context/MovieContext';
 import StarIcon from '@mui/icons-material/Star';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
